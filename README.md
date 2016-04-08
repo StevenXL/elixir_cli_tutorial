@@ -1,20 +1,7 @@
 # ElixirCliTutorial
 
-**TODO: Add description**
+## Description
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add elixir_cli_tutorial to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:elixir_cli_tutorial, "~> 0.0.1"}]
-        end
-
-  2. Ensure elixir_cli_tutorial is started before your application:
-
-        def application do
-          [applications: [:elixir_cli_tutorial]]
-        end
-
+This is an example application as I work through the tutorial [writing a command
+line application in
+Elixir](http://asquera.de/blog/2015-04-10/writing-a-commandline-app-in-elixir/).
